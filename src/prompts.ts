@@ -48,6 +48,7 @@ Hãy review theo các tiêu chí sau:
 **Format output:**
 - Dùng Markdown để format (GitHub sẽ render đẹp)
 - Mỗi vấn đề cần chỉ rõ: file nào, dòng nào, tại sao đó là vấn đề, và gợi ý cải thiện
+- Cung cấp code fix cho vấn đề đó
 - Phân loại theo mức độ: 🔴 Critical, 🟡 Warning, 🟢 Suggestion
 - Kết thúc bằng tóm tắt tổng thể và verdict: Approve / Request Changes / Needs Discussion
 `;
